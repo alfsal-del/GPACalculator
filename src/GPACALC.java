@@ -26,6 +26,7 @@ public class GPACALC
             input.nextLine();
             double gradePoints = 0;
 
+
             if (grade.equals("A+")) {
                 gradePoints = 4.0;
             }
